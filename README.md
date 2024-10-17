@@ -1,0 +1,1 @@
+In this project I am sending user ( **implemented custom user model**) a an email link using django.core.mail (send email method ) and smtp server where he will be redirected to a signup API endpoint and successfully register himself
